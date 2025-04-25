@@ -75,7 +75,8 @@ def sarsa(env,
 
 ## OUTPUT:
 ### optimal policy, optimal value function , success rate for the optimal policy.
-![Screenshot 2025-04-25 141700](https://github.com/user-attachments/assets/4549175d-fde4-4fea-bcbe-19a19b74febe)
+![image](https://github.com/user-attachments/assets/f2c61cfa-a3b8-4a64-9576-5fba4bbff51a)
+
 
 
 
